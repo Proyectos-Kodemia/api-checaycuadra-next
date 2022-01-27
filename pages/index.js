@@ -1,8 +1,9 @@
+import Login from './Login'
 
 export default function Home () {
   return (
     <div>
-      <h1>holis</h1>
+      <Login styles />
     </div>
   )
 }
